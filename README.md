@@ -1,31 +1,61 @@
 # Hi there 👋, I'm Ravishnu
 
-Full Stack Engineer | Python • FastAPI • React | AI Automation | SAP HANA
+💻 Full Stack Engineer passionate about building scalable enterprise applications and AI-powered automation.
+
+Currently working on SAP HANA enhancements, intelligent document processing, and workflow automation using Python (FastAPI), React, and AI agents.
+
+---
 
 ## 🚀 About Me
 
-Full Stack Engineer with 4+ years of experience building enterprise applications using Python (FastAPI), React, and SAP HANA.
+- 💼 Full Stack Engineer with **4+ years** of experience
+- 🐍 Backend: Python, FastAPI
+- ⚛️ Frontend: React (JavaScript)
+- 🗄️ Databases: PostgreSQL, MongoDB, SAP HANA
+- 🤖 Building AI-powered document processing and workflow automation
+- 🔄 Experience with CrewAI, LangGraph, REST APIs, and enterprise integrations
+- 🌱 Currently exploring Agentic AI, MCP, and scalable system design
 
-Currently developing AI-powered automation solutions for document processing, workflow orchestration, and enterprise integrations.
+---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-- Python
-- FastAPI
+### Languages
+Python • JavaScript • SQL
+
+### Backend
+FastAPI • REST APIs
+
+### Frontend
+React • HTML • CSS
+
+### Databases
+PostgreSQL • MongoDB • SAP HANA
+
+### AI & Automation
+CrewAI • LangGraph • Prompt Engineering • Gemini API • OpenAI API
+
+### Tools
+Git • Linux
+
+---
+
+## 🎯 What I Enjoy Building
+
+- Enterprise Applications
+- AI Automation
+- Workflow Orchestration
 - REST APIs
-- React
-- PostgreSQL
-- MongoDB
-- AI Agents
-- LangGraph
-- Git
+- Full Stack Web Applications
+- Clean & Scalable Architecture
 
-## 🌱 Currently Learning
+---
 
-- MCP (Model Context Protocol)
-- Advanced AI Agent Workflows
-- System Design
+## 📫 Connect with Me
 
-## 📫 Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/ravishnu/
+- 📧 Email: ravishnu60@gmail.com
 
-- LinkedIn: linkedin.com/in/ravishnu
+---
+
+⭐ *Building software that solves real business problems.*
