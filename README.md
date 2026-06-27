@@ -12,13 +12,12 @@ Currently developing AI-powered automation solutions for document processing, wo
 
 - Python
 - FastAPI
+- REST APIs
 - React
 - PostgreSQL
 - MongoDB
-- SAP HANA
-- CrewAI
+- AI Agents
 - LangGraph
-- REST APIs
 - Git
 
 ## 🌱 Currently Learning
