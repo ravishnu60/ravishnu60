@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Ravishnu
 
-<!--
-**ravishnu60/ravishnu60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer | Python • FastAPI • React | AI Automation | SAP HANA
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Engineer with 4+ years of experience building enterprise applications using Python (FastAPI), React, and SAP HANA.
+
+Currently developing AI-powered automation solutions for document processing, workflow orchestration, and enterprise integrations.
+
+## 🛠 Tech Stack
+
+- Python
+- FastAPI
+- React
+- PostgreSQL
+- MongoDB
+- SAP HANA
+- CrewAI
+- LangGraph
+- REST APIs
+- Git
+
+## 🌱 Currently Learning
+
+- MCP (Model Context Protocol)
+- Advanced AI Agent Workflows
+- System Design
+
+## 📫 Connect
+
+- LinkedIn: linkedin.com/in/ravishnu
