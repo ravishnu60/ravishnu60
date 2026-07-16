@@ -24,7 +24,7 @@ Currently working on SAP HANA enhancements, intelligent document processing, and
 Python • JavaScript • SQL
 
 ### Backend
-FastAPI • REST APIs • Pydantic • Sqlalchemy
+FastAPI • REST APIs • Pydantic • Sqlalchemy • Async Programming
 
 ### Frontend
 React • HTML • CSS • Tailwind CSS
