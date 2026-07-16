@@ -13,8 +13,8 @@ Currently working on SAP HANA enhancements, intelligent document processing, and
 - ⚛️ Frontend: React (JavaScript)
 - 🗄️ Databases: PostgreSQL, MongoDB, SAP HANA
 - 🤖 Building AI-powered document processing and workflow automation
-- 🔄 Experience with CrewAI, LangGraph, REST APIs, and enterprise integrations
-- 🌱 Currently exploring Agentic AI, MCP, and scalable system design
+- 🔄 Experience with OpenAI, Gemini, LangChain, REST APIs, Web Applications, and integrations
+- 🌱 Currently exploring Agentic AI, RAG, MCP, and scalable system design
 
 ---
 
@@ -27,13 +27,13 @@ Python • JavaScript • SQL
 FastAPI • REST APIs
 
 ### Frontend
-React • HTML • CSS
+React • HTML • CSS • Tailwind CSS
 
 ### Databases
-PostgreSQL • MongoDB • SAP HANA
+PostgreSQL • MYSQL • MongoDB • SAP HANA
 
 ### AI & Automation
-CrewAI • LangGraph • Prompt Engineering • Gemini API • OpenAI API
+Prompt Engineering • Gemini API • OpenAI API • LangChain
 
 ### Tools
 Git • Linux
